@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,validate.io_object",
+    "logging_enabled": "false",
+    "name": "validate.io_objectSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "validate.io_objectSmokeTest.js"
+}
